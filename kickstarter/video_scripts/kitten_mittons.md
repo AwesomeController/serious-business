@@ -29,7 +29,7 @@ Random hand gestures.
 )
 
 **Spokesperson(SP)**: Hello! 
-I'm <name>, 
+I'm (name), 
 Awesome Controller Co-Founder 
 and retro gaming enthusiast.
 
@@ -37,17 +37,19 @@ and retro gaming enthusiast.
 constantly causing you bodily harm?
 
 *Cut to video of cord strangling*
+
 **SP**: Do you often worry that 
 your Nintendo cord will become wrapped around your neck, 
-making it so you can't get the oxygen 
-that your brain requires?
+suffocating you?
 
 *Cut to video of hand being pulled off by controller*
+
 **SP**: Have you lost 
 one, two, three or more hands 
 as a result of controller cord accident?
 
 *Cut back to Spokesperson, now walking towards the camera*
+
 **SP**: If you answered yes to any of these questions, 
 then you aren't alone, 
 you single-handed son of a bitch.
@@ -59,10 +61,9 @@ so I vowed to stop the violence.
 
 *Back to SP walking towards camera with lab in background*
 
-I commission a team of top scientists and engineers
+I commissioned a team of top scientists and engineers
 to research potential solutions
 and bingo was his name-o.
-*Trips while walking and cuts away as he's falling. Jumps to him still walking*
 Awesome Controller was born.
 
 *Still walking towards the camera*
@@ -70,9 +71,7 @@ Awesome Controller was born.
 **SP**: With Awesome Controller,
 you use your existing wiimote or PS3 controller
 
-*off camera tosses controllers,*
-*SP tries to catch one, misses,*
-*other hits SP in the head*
+*off camera tosses controllers, SP tries to catch one, misses, other hits SP in the head*
 
 to control your 
 Nintendo, 
@@ -83,10 +82,3 @@ Take back the control from your controllers again.
 Awesome Controller.
 It's Awesome.
 Controller. 
-
-
-
-
-
-
-

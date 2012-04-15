@@ -93,12 +93,6 @@ like it's going out of style.
   * You have acquired recipe for <A Badass Case Design>.
     Console games with crafting/recipes?
 
-### More serious pitch
-
-* Team introduction
-* Just want to solve this problem for some folks
-* Thanks
-
 ## Script
 
 
