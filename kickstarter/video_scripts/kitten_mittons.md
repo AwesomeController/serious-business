@@ -39,7 +39,8 @@ constantly causing you bodily harm?
 *Cut to video of cord strangling*
 **SP**: Do you often worry that 
 your Nintendo cord will become wrapped around your neck, 
-suffocating you?
+making it so you can't get the oxygen 
+that your brain requires?
 
 *Cut to video of hand being pulled off by controller*
 **SP**: Have you lost 
@@ -61,6 +62,7 @@ so I vowed to stop the violence.
 I commission a team of top scientists and engineers
 to research potential solutions
 and bingo was his name-o.
+*Trips while walking and cuts away as he's falling. Jumps to him still walking*
 Awesome Controller was born.
 
 *Still walking towards the camera*
