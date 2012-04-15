@@ -101,6 +101,9 @@ Dot dot dot.
 
 ## Reward Tiers
 
+Possible change: Name tiers based on video game characters 
+(eg. The Backers Tier is a character that gives you things. Old man from Zelda.)
+
 ### $10
 The Backers tier
 
@@ -110,7 +113,18 @@ Name added to the `KICKSTARTER_BACKERS.md` file in the source repository.
 
 Estimated arrival: June 2012
 
+
 ### $30
+The Fashionista tier
+The "Damn, You look attractive in that t-shirt" tier
+
+T-shirt. You get one.
+
+(Plus all previous tiers)
+
+Estimated arrival: June 2012
+
+### $20
 The Beautiful People tier
 
 We will phone, email or Skype call you (your preference) and tell you how much
