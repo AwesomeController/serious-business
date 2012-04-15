@@ -64,6 +64,9 @@ so I vowed to stop the violence.
 I commissioned a team of top scientists and engineers
 to research potential solutions
 and bingo was his name-o.
+
+*SP trips and is seen to start to fall. Video cuts straight to him standing and walking again*
+
 Awesome Controller was born.
 
 *Still walking towards the camera*
@@ -78,7 +81,15 @@ Nintendo,
 Super Nintendo, 
 Nintendo 64 
 or Sega Genesis.
-Take back the control from your controllers again.
+No Cords to worry about at all!
+
+*Walking reveals someone strangling someone else with a controller cord.*
+*Camera stops moving, SP walks off camera, focus stays on strangling *
+
+*New shot opens with SP awkwardly posing with his leg up in the Captain Morgan stance*
+*He's wrapped in an American Flag*
+
+**SP**: Take back the control from your controllers again.
 Awesome Controller.
 It's Awesome.
 Controller. 
