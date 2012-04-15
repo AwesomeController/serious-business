@@ -69,7 +69,7 @@ like it's going out of style.
     to gain arduino knowledge form
   * First-person split-screen view 
     with one person holding soldering iron
-    and other holding a laptop
+    and other holding a laptop Goldeneye style
 
 * Win startup weekend
 
@@ -82,12 +82,16 @@ like it's going out of style.
 * Components needed in bulk
 
   * Starcraft "You require more vespene gas"
+  * Game menu with real component names
+    redded-out with costs in rupees 
 
 * Product improvements
 
-  * Tech tree research? 
+  * Tech tree research 
     Console games with tech trees?
   * 8-bit version of a case?
+  * You have acquired recipe for <A Badass Case Design>.
+    Console games with crafting/recipes?
 
 ### More serious pitch
 
