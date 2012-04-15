@@ -42,6 +42,12 @@ constantly causing you bodily harm?
 your Nintendo cord will become wrapped around your neck, 
 suffocating you?
 
+*Cut to video of system being pulled into face*
+*Timed cut to tombstone of person who got hit in the face*
+
+**SP**: Have your game celebrations resulted in the
+death of a friend, a loved one, or even yourself?
+
 *Cut to video of hand being pulled off by controller*
 
 **SP**: Have you lost 
@@ -51,11 +57,10 @@ as a result of controller cord accident?
 *Cut back to Spokesperson, now walking towards the camera*
 
 **SP**: If you answered yes to any of these questions, 
-then you aren't alone, 
-you single-handed son of a bitch.
+then you aren't alone, Stubby.
 I actually lost both of my hands to a Sega Genesis, 
 
-*Cut to bloody no-hands aftermath*
+*Spokesperson raises stubs into shot*
 
 so I vowed to stop the violence.
 
@@ -74,20 +79,24 @@ Awesome Controller was born.
 **SP**: With Awesome Controller,
 you use your existing wiimote or PS3 controller
 
-*off camera tosses controllers, SP tries to catch one, misses, other hits SP in the head*
+*Three people walking down hallway. Controllers thrown
+from behind camera, taking out each flanking member independently.
+Over-the-top pratfalls ensue.
+One person has papers they're holding which are thrown. The other has a pie.*
 
 to control your 
 Nintendo, 
 Super Nintendo, 
-Nintendo 64 
-or Sega Genesis.
+Nintendo 64,
+Sega Genesis,
+and more.
 No Cords to worry about at all!
 
 *Walking reveals someone strangling someone else with a controller cord.*
 *Camera stops moving, SP walks off camera, focus stays on strangling *
 
 *New shot opens with SP awkwardly posing with his leg up in the Captain Morgan stance*
-*He's wrapped in an American Flag*
+*He's wrapped in an Soviet Flag*
 
 **SP**: Take back the control from your controllers again.
 Awesome Controller.

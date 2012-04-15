@@ -10,6 +10,8 @@ We'll follow a short narrative
 while dropping fan service
 like it's going out of style.
 
+Alternative: All created in Minecraft
+
 ## Story Summary
 
 * Voice-over narration 
@@ -42,6 +44,7 @@ like it's going out of style.
   * Heart meter goes down
   * Flash in/out of existence 
     like Zelda animation.
+  * Play the less than 3 heart pulse
 
 ### Building AC
 
@@ -70,8 +73,10 @@ like it's going out of style.
   * First-person split-screen view 
     with one person holding soldering iron
     and other holding a laptop Goldeneye style
+  * Punch Out training montage, 
+    jogging behind a bike with music
 
-* Win startup weekend
+* Win startup weekend (Maybe cut this?)
 
   * Mario-kart style medal podium?
   * Using prototype, 
