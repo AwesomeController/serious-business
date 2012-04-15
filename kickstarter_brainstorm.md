@@ -64,7 +64,17 @@ Controller!
   * Crazy Carpet Closeout-style video (Don's guns etc.)
   * Political campaign ad
     * Attack ad on cables?
-    * The "modern values" candidate?
+    * The "modern values" candidate
+  * Kitten-mittens "Has this ever happened to you?" Greivous bodily harm caused by plugging in the controller
+  * Video game tropes IRL
+    * Break a block above your head
+    * Open a treasure chest (music, camera angles)
+    * Drive a car over a question mark block
+    * Guitar hero streaming notes
+    * Plugging in the chorded controller changes the world from awesomeness video game mode to grey "real world" mode
+    * Tetris: building awesome controller with an arduino? Boxes?
+    * Occarina of time Navi, annoying fairy. "Listen!"
+    * 
 * Parady followed by "straight" video
 * 100% straight explanatory video
 
