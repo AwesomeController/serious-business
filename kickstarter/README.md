@@ -125,16 +125,6 @@ Name added to the `KICKSTARTER_BACKERS.md` file in the source repository.
 Estimated arrival: June 2012
 
 
-### $30
-The Fashionista tier
-The "Damn, You look attractive in that t-shirt" tier
-
-T-shirt. You get one.
-
-(Plus all previous tiers)
-
-Estimated arrival: June 2012
-
 ### $20
 The Beautiful People tier
 
@@ -145,6 +135,17 @@ footwear currently is.
 (Plus all previous tiers)
 
 Estimated arrival: June 2012
+
+### $30
+The Fashionista tier
+The "Damn, You look attractive in that t-shirt" tier
+
+T-shirt. You get one.
+
+(Plus all previous tiers)
+
+Estimated arrival: June 2012
+
 
 ### $80
 The Hackers tier
