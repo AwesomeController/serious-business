@@ -2,7 +2,7 @@
 
 ## Concept
 
-An ad in the comically-bad 
+An ad in the comically-bad
 style of ASIF's [Kitten Mittons](http://www.youtube.com/watch?v=PGNnEmd9jw8).
 
 * Mix of spokesperson
@@ -18,8 +18,8 @@ Opens with a tight shot of the spokesperson
 standing in a hacker-space.
 Camera zooms out during opening line
 revealing rest of AC team working at lab benches.
-Spokesperson is awkwardly dressed 
-in either poorly-tied tie or bowtie. 
+Spokesperson is awkwardly dressed
+in either poorly-tied tie or bowtie.
 Has obvious pit stains.
 Speaks too loud.
 Over the top facial expressions.
@@ -28,9 +28,9 @@ obviously trying to remember memorized lines.
 Random hand gestures.
 )
 
-**Spokesperson(SP)**: Hello! 
-I'm (name), 
-Awesome Controller Co-Founder 
+**Spokesperson(SP)**: Hello!
+I'm (name),
+Awesome Controller Co-Founder
 and retro gaming enthusiast.
 
 **SP**: Are your retro gaming console controllers
@@ -38,8 +38,8 @@ constantly causing you bodily harm?
 
 *Cut to video of cord strangling*
 
-**SP**: Do you often worry that 
-your Nintendo cord will become wrapped around your neck, 
+**SP**: Do you often worry that
+your Nintendo cord will become wrapped around your neck,
 suffocating you?
 
 *Cut to video of system being pulled into face*
@@ -50,15 +50,15 @@ death of a friend, a loved one, or even yourself?
 
 *Cut to video of hand being pulled off by controller*
 
-**SP**: Have you lost 
-one, two, three or more hands 
+**SP**: Have you lost
+one, two, three or more hands
 as a result of controller cord accident?
 
 *Cut back to Spokesperson, now walking towards the camera*
 
-**SP**: If you answered yes to any of these questions, 
+**SP**: If you answered yes to any of these questions,
 then you aren't alone, Stubby.
-I actually lost both of my hands to a Sega Genesis, 
+I actually lost both of my hands to a Sega Genesis,
 
 *Spokesperson raises stubs into shot*
 
@@ -84,9 +84,9 @@ from behind camera, taking out each flanking member independently.
 Over-the-top pratfalls ensue.
 One person has papers they're holding which are thrown. The other has a pie.*
 
-to control your 
-Nintendo, 
-Super Nintendo, 
+to control your
+Nintendo,
+Super Nintendo,
 Nintendo 64,
 Sega Genesis,
 and more.
@@ -96,9 +96,94 @@ No Cords to worry about at all!
 *Camera stops moving, SP walks off camera, focus stays on strangling *
 
 *New shot opens with SP awkwardly posing with his leg up in the Captain Morgan stance*
-*He's wrapped in an Soviet Flag*
+*He's wrapped in a Soviet Flag*
 
 **SP**: Take back the control from your controllers again.
 Awesome Controller.
 It's Awesome.
-Controller. 
+Controller.
+
+## Supplies List
+
+* Quick video of grave. Stock?
+
+To Borrow:
+
+* Spokesperson costume
+* ~~Stack of papers~~ (wes)
+* ~~cat~~ (kyle)
+* ~~2x Nintendo Controller~~ (kyle)
+* Bearskin rug (Leif)
+
+To Buy:
+
+* ~~prosthetic hand~~
+* ~~Soviet Flag~~
+* Ready Whip + pie tins - Walmart
+* Fake blood (corn syrup, red food coloring) - Walmart
+* ~~Clear fishing line for pulls~~
+* Real or replica Nintendo system that we can yank -- Used/Broken on Craigslist/Ebay
+* Throwable wiimote -- Used/Broken on Craigslist/Ebay
+* Throwable PS3 controller -- Used/Broken on Craigslist/Ebay
+
+
+## Shots
+
+### Opening
+
+Stationary shot, SP standing in a room.
+
+### Cord Strangling
+
+One person against a white wall.
+
+* Nintendo Controller
+
+### System to face
+
+Two folks sitting on a living room couch.
+Stationary shot, two people sitting playing nintendo.
+Person 1 yanks controller, system comes from off screen
+and hits Person 2 in the face.
+
+* 2x Nintendo Controller
+* Real or replica Nintendo system that we can yank
+* String to pull the system across the room
+* Quick video of grave. Stock?
+
+### Hand removal
+
+One person on couch.
+Stationary shot.
+
+Starts playing system, jaws music,
+cut to cat running on carpet,
+cut to obvious prosthetic hand being yanked off with fake blood
+
+* Fake blood
+* prosthetic hand
+* cat
+* Nintendo Controller
+* String to pull hand
+
+### Walking with no hands
+
+SP walking towards camera in long hallway.
+
+* Fake blood
+
+### Staff Attrition
+
+3 folks walking in hallway.
+
+* Throwable wiimote
+* Throwable PS3 controller
+* Ready Whip + pie tins
+* Stack of papers
+
+### Patriotism
+
+* Soviet Flag
+
+
+
