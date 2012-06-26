@@ -105,7 +105,7 @@ Controller.
 
 ## Supplies List
 
-* Quick video of grave. Stock?
+* Quick video of grave. Stock? (Kyle also lives a mile away from a cemetery.)
 
 To Borrow:
 
