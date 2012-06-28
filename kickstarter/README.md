@@ -165,6 +165,7 @@ I don't know what sort of crazy thing you're in to (so please stop asking).
 Also includes 1 system dongle of your choice
 (add $10 for each additional dongle you'd like).
 
+Free shipping in the US.
 Please add $15 for international (non-US) shipping.
 
 (Plus The Backers tier)
@@ -175,9 +176,9 @@ Estimated arrival: November 2012
 
 
 ### $85
-One deliciously-Green Awesome Controller. Free shipping to USA.
+One deliciously-Green Awesome Controller.
 
-We will ship you a gorgeously-designed,
+You get a gorgeously-designed,
 fully-functional,
 envy-causing Awesome Controller.
 You will love it,
@@ -188,6 +189,7 @@ satisfaction guaranteed.
 Also includes 1 system dongle of your choice
 (add $10 for each additional dongle you'd like).
 
+Free shipping in the US.
 Please add $15 for international (non-US) shipping.
 
 Estimated arrival: December 2012
@@ -204,6 +206,21 @@ is 50 to 1.
 Also includes 1 system dongle of your choice
 (add $10 for each additional dongle you'd like).
 
+Free shipping in the US.
+Please add $15 for international (non-US) shipping.
+
+Estimated arrival: December 2012
+
+
+### $850
+Gaming Club Tier.
+
+Ten Awesome Controllers in your choice of colors
+plus 10 dongles of your choice.
+
+Add $10 for each additional dongle you'd like.
+
+Free shipping in the US.
 Please add $15 for international (non-US) shipping.
 
 Estimated arrival: December 2012
