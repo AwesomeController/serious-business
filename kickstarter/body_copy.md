@@ -1,8 +1,8 @@
 # Awesome Controller
 
-Awesome Controller is a project that will let you play older video game systems with new wireless controllers. Imagine a world where your SNES or Genesis doesn't sit in a box because of all of the wires. We want to make a way for you play your NES, SNES, N64 (and more!) with Wii and PS3 controllers.
+Awesome Controller is a project that will let you play older video game systems with new wireless controllers. Imagine a world where your SNES or Genesis doesn't just sit in a box because of all of the wires. How about an upgrade to your blocky NES or broken N64 controller? We want to make a way for you play your NES, SNES, N64 (and more!) with Wii and PS3 controllers.
 
-This project is a great fit for you if you have one or more older video game consoles collecting dust because they just don't fit with your wireless modern living room. You love old video games, and want to breathe new life into them.
+This project is a great fit for you if you have one or more older video game consoles collecting dust because they just don't fit with your wireless modern living room. You love old video game systems, and want to breathe new life into them.
 
 [[Video]]
 
@@ -34,7 +34,7 @@ There is still a lot to work on. The more backing that we get, the clearer the s
 
 Your money will go largely toward production costs of the Awesome Controller unit, dongles to connect to systems, and shipping. We will probably make a little money on this Kickstarter, which compensates us somewhat for the time that we are putting in on this project.
 
-We strongly believe in transparency. We will be communicating with you throughout and after the project. Everything from our code to schematics to the Kickstarter copy you are reading is available online and free of charge at [our Github page](https://github.com/awesomecontroller). If you're a developer, be sure to check out the tier that allows you to flash your Awesome Controller and upload new code to it. If you make some changes, we'd love to get a pull request and release it back for everyone to benefit.
+We strongly believe in transparency. We will be communicating with you throughout and after the project. Everything from our code to schematics to the Kickstarter copy you are reading is available online and free of charge at [our Github page](https://github.com/awesomecontroller). If you're a developer, be sure to check out the Hackers Tier that allows you to flash your Awesome Controller and upload new code to it. If you make some changes, we'd love to get a pull request and release it back for everyone to benefit.
 
 ## How can you help?
 
