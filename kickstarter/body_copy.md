@@ -213,9 +213,10 @@ Estimated arrival: December 2012
 ### $95
 One Awesome Controller in any of the classic gem colors
 (choose from Ocean Blue, Rosy Red or Royal Purple).
-Free shipping to USA.
 
-We're pretty sure that the purple to green exchange rate
+These orders are gauranteed to ship 
+*before* the Green versions.
+Also, we're pretty sure that the purple to green exchange rate
 is 50 to 1.
 
 Also includes 1 system dongle of your choice
@@ -232,6 +233,8 @@ Gaming Club Tier.
 
 Ten Awesome Controllers in your choice of colors
 plus 10 dongles of your choice.
+These orders are gauranteed to ship 
+*before* the Green versions.
 
 Add $10 for each additional dongle you'd like.
 
