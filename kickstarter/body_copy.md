@@ -29,8 +29,8 @@ We're five gamer dudes in Indianapolis, Indiana.
 Kyle (our fearless leader) decided he was tired of his "nearly-wireless living room"
 and convinced the rest of us to spend nights and weekends building Awesome Controller.
 Our four software engineer + one electrical engineer team won a Startup Weekend event
-with Awesome Controller.
-It's not fair that we're the only kids on the block playing Mario Kart 64 with wiimotes,
+by demoing Super Mario Brothers played with a Wiimote from across a packed room.
+It's not fair that we're the only kids on the block playing Mario Kart 64 with Wiimotes,
 so we launched this Kickstarter to bring equality to the retro gaming universe.
 
 PICTURE OF TEAM
@@ -47,7 +47,7 @@ and if we hit higher funding goals,
 we'll certainly add more support.
 Even better,
 because we're an open platform,
-some badass on Reddit could add Atari support.
+some badass on Reddit could give you Atari support for free.
 
 ## So why do a Kickstarter?
 
@@ -59,8 +59,7 @@ When we tell our friends,
 they tell us they'd love one,
 so we're hoping you're just a friend we haven't yet met.
 
-Additionally,
-we have a ton of ideas for cool enhancements,
+We have a ton of ideas for cool enhancements,
 and the more interest we see,
 the more of those cool things we can build.
 
@@ -108,15 +107,25 @@ or (even better) pull requests.
 
 ### How do I contribute?
 
-Everything from our code to schematics to the Kickstarter copy you are reading
-is available online and free of charge at [our Github page](https://github.com/awesomecontroller).
+Everything from our code
+to our schematics
+to the Kickstarter copy you are reading
+is available online and free at [our Github page](https://github.com/awesomecontroller).
 If you're a developer,
-be sure to check out the Hackers Tier that allows you to
+be sure to check out the Hackers Tier that allows you to easily
 flash your Awesome Controller and upload new code.
 Want to add support for the Atari Jaguar?
 Awesome!
 We'd love to get a pull request
 and release it back for everyone to benefit.
+
+### Can I use a Wiimote and a PS3 controller simultaneously?
+
+Yup.
+
+### Can I play two different consoles with one Awesome Controller simultaneously?
+
+Nope.
 
 ## Reward Tiers
 
@@ -131,7 +140,7 @@ and we'll add your name (plus a message of your choosing)
 to the `KICKSTARTER_BACKERS.md` file in our github repository.
 Invest in your geek cred, markdown style.
 
-Estimated arrival: August 2012
+Estimated arrival: October 2012
 
 
 ### $20
@@ -145,7 +154,7 @@ footwear currently is.
 
 Limit: 10
 
-Estimated arrival: June 2012
+Estimated arrival: October 2012
 
 
 ### $75
@@ -158,7 +167,7 @@ to solder your own Awesome Controller arduino shield.
 With this kit,
 an arduino uno
 and our free tutorials and documentation,
-you too can be a baller hardware hacking machine.
+you too can be a baller hardware-hacking machine.
 
 If you already are
 the aforementioned baller hardware-hacking machine (BHHM)
@@ -175,8 +184,6 @@ Also includes 1 system dongle of your choice
 
 Free shipping in the US.
 Please add $15 for international (non-US) shipping.
-
-(Plus The Backers tier)
 
 Limit: 100
 
