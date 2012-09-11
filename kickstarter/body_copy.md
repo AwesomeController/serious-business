@@ -16,7 +16,7 @@ Getting up and running with Awesome Controller is a snap.
 PICTURE OF AWESOME CONTROLLER
 
 Awesome Controller plugs directly in to
-your favorite console's controller port.
+your favorite console's controller port via a special dongle.
 From there,
 just wirelessly sync your Wii or PS3 controllers
 to your Awesome Controller and
@@ -25,24 +25,29 @@ blast bad guys.
 
 ## Who are you?
 
-Our team is made up of five guys in Indianapolis, Indiana. Four software engineers (mostly web-based) and an electrical engineer. From Final Fantasy to Zelda to Goldeneye 64, we've played a bunch of games. While most of us don't have much hardware development knowledge, we have gotten pretty far in the last few months.
+We're five gamer dudes in Indianapolis, Indiana.
+Kyle (our fearless leader) decided he was tired of his "nearly-wireless living room"
+and convinced the rest of us to spend nights and weekends building Awesome Controller.
+Our four software engineer + one electrical engineer team won a Startup Weekend event
+with Awesome Controller.
+It's not fair that we're the only kids on the block playing Mario Kart 64 with wiimotes,
+so we launched this Kickstarter to bring equality to the retro gaming universe.
 
 PICTURE OF TEAM
 
-## How many Awesome Controllers do I need?
-
 ## Which systems are supported?
 
-## Awesome Controller's future
+We currently support:
+* Nintendo Entertainment System (NES)
+* Super Nintendo Entertainment System (SNES)
+* Nintendo 64 (N64)
 
-Awesome Controller is a completely open platform,
-with the source code and schematics on [github](http://github.com/awesomecontroller).
-Members of our community are absolutely encouraged
-to add console support,
-add features,
-and generally do all of the awesome stuff that happens when folks collaborate.
-We've added the [Hacker's Tier]() specifically to encourage tinkering
-from anyone who is familiar with the popular [Arduino]() open hardware platform.
+The hardware is capable of supporting additional systems,
+and if we hit higher funding goals,
+we'll certainly add more support.
+Even better,
+because we're an open platform,
+some badass on Reddit could add Atari support.
 
 ## So why do a Kickstarter?
 
@@ -59,11 +64,39 @@ we have a ton of ideas for cool enhancements,
 and the more interest we see,
 the more of those cool things we can build.
 
+## How many Awesome Controllers do I need?
+
+One Awesome Controller can connect to two Wii/PS3 controllers simultaneously.
+That means you probably only need one,
+unless you want to play 4-player N64.
+
+## What are dongles?
+
+Dongles are the system-specific removable plugs that
+connect your Awesome Controller directly to the console.
+Each console has a slightly different controller port,
+so these dongles allow you to buy just one Awesome Controller,
+and switch dongles to play a different system.
+If you have multiple console systems you'd like to play,
+you'll want to pick up a dongle for each.
+
+## Awesome Controller's future
+
+Awesome Controller is a completely open platform,
+with the source code and schematics on [github](http://github.com/awesomecontroller).
+Members of our community are absolutely encouraged
+to add console support,
+add features,
+and generally do all of the awesome stuff that happens when folks collaborate.
+We've added the [Hacker's Tier]() specifically to encourage tinkering
+from anyone who is familiar with the popular [Arduino]() open hardware platform.
+
 ## How can you help?
 
 Spread the word!
 Know any retro gamers?
 We'd really appreciate if you sent them our way.
+
 TWITTER FACEBOOK G+
 
 If you're a developer,
