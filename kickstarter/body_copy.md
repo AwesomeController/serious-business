@@ -1,45 +1,214 @@
 # Awesome Controller
 
-Awesome Controller is a project that will let you play older video game systems with new wireless controllers. Imagine a world where your SNES or Genesis doesn't just sit in a box because of all of the wires. How about an upgrade to your blocky NES or broken N64 controller? We want to make a way for you play your NES, SNES, N64 (and more!) with Wii and PS3 controllers.
+VIDEO
 
-This project is a great fit for you if you have one or more older video game consoles collecting dust because they just don't fit with your wireless modern living room. You love old video game systems, and want to breathe new life into them.
+Awesome Controller lets you use your Wii and PS3 controllers
+to play your classic game consoles.
+Ditch your tangled mess of old controllers,
+but keep all of your favorite old systems and games.
+Breathe new life in to your NES, SNES, N64 (and more!)
+with Awesome Controller.
 
-[[Video]]
+## How does Awesome Controller work?
 
-So, Awesome Controller is a hardware device that can communicate both with video game systems and modern Bluetooth controllers.
+Getting up and running with Awesome Controller is a snap.
+
+PICTURE OF AWESOME CONTROLLER
+
+Awesome Controller plugs directly in to
+your favorite console's controller port.
+From there,
+just wirelessly sync your Wii or PS3 controllers
+to your Awesome Controller and
+you're ready to dodge red shells and
+blast bad guys.
+
+## Who are you?
 
 Our team is made up of five guys in Indianapolis, Indiana. Four software engineers (mostly web-based) and an electrical engineer. From Final Fantasy to Zelda to Goldeneye 64, we've played a bunch of games. While most of us don't have much hardware development knowledge, we have gotten pretty far in the last few months.
 
-[[Pictures of the team]]
+PICTURE OF TEAM
 
-## What have we done so far?
+## How many Awesome Controllers do I need?
 
-Awesome Controller started as a Startup Weekend project. We got to work disassembling NES and SNES controllers and reading online documentation to figure out how the systems worked. By the end of the weekend people were playing NES and SNES games on the original consoles with a wired PS3 controller. More importantly, we got a Wiimote connected to a NES, allowing us to play Super Mario Brothers from across the room.
+## Which systems are supported?
 
-[[Picture showing playing across the room]]
+## Awesome Controller's future
 
-Over the next few months we hit a few more important milestones, including being able to play N64 games and interfacing with the Wii Classic controller for more buttons.
-
-[[Pictures/videos of playing with N64 and/or Classic controller]]
+Awesome Controller is a completely open platform,
+with the source code and schematics on [github](http://github.com/awesomecontroller).
+Members of our community are absolutely encouraged
+to add console support,
+add features,
+and generally do all of the awesome stuff that happens when folks collaborate.
+We've added the [Hacker's Tier]() specifically to encourage tinkering
+from anyone who is familiar with the popular [Arduino]() open hardware platform.
 
 ## So why do a Kickstarter?
 
-We are trying to raise $15,000 to prove that other people want a device like this before we add some features to make it production-ready.
+We are trying to raise $15,000
+to prove that more than just the five of us want an Awesome Controller.
+That's the level where a production run won't be too expensive for you,
+and won't lose money for us.
+When we tell our friends,
+they tell us they'd love one,
+so we're hoping you're just a friend we haven't yet met.
 
-There is still a lot to work on. The more backing that we get, the clearer the signal that we should work on this project. Some things that we would really like to get working for this first version include:
-
-   - multiplayer support
-   - at least the following systems flawless: NES, SNES, N64
-   - PS3 wireless support
-
-Your money will go largely toward production costs of the Awesome Controller unit, dongles to connect to systems, and shipping. We will probably make a little money on this Kickstarter, which compensates us somewhat for the time that we are putting in on this project.
-
-We strongly believe in transparency. We will be communicating with you throughout and after the project. Everything from our code to schematics to the Kickstarter copy you are reading is available online and free of charge at [our Github page](https://github.com/awesomecontroller). If you're a developer, be sure to check out the Hackers Tier that allows you to flash your Awesome Controller and upload new code to it. If you make some changes, we'd love to get a pull request and release it back for everyone to benefit.
+Additionally,
+we have a ton of ideas for cool enhancements,
+and the more interest we see,
+the more of those cool things we can build.
 
 ## How can you help?
 
-If you know retro gamers, we would greatly appreciate you telling them about this project.
+Spread the word!
+Know any retro gamers?
+We'd really appreciate if you sent them our way.
+TWITTER FACEBOOK G+
 
-We are trying to raise at least $15,000. Funds that you pledge are not taken out until the that minimum is reached. To encourage people to donate, we have several levels of funding that have special bonuses attached to them.
+If you're a developer,
+we'd love feedback,
+suggestions
+or (even better) pull requests.
 
-TODO: Explicate the tiers
+## FAQ
+
+### How do I contribute?
+
+Everything from our code to schematics to the Kickstarter copy you are reading
+is available online and free of charge at [our Github page](https://github.com/awesomecontroller).
+If you're a developer,
+be sure to check out the Hackers Tier that allows you to
+flash your Awesome Controller and upload new code.
+Want to add support for the Atari Jaguar?
+Awesome!
+We'd love to get a pull request
+and release it back for everyone to benefit.
+
+## Reward Tiers
+
+### $5
+The Backers tier
+
+Interested in supporting Awesome Controller development,
+but don't want to break the bank?
+Pledge $5 and we'll keep you in the loop
+with product updates,
+and we'll add your name (plus a message of your choosing)
+to the `KICKSTARTER_BACKERS.md` file in our github repository.
+Invest in your geek cred, markdown style.
+
+Estimated arrival: August 2012
+
+
+### $20
+The Beautiful People tier
+
+We will phone, email or Skype call you (your preference) and tell you how much
+we love you, how attractive with think you are and how fashionable your
+footwear currently is.
+
+(Plus The Backers tier)
+
+Limit: 10
+
+Estimated arrival: June 2012
+
+
+### $75
+The Hackers tier
+
+About a month before the "retail" launch,
+we will send you a parts kit
+with everything you need
+to solder your own Awesome Controller arduino shield.
+With this kit,
+an arduino uno
+and our free tutorials and documentation,
+you too can be a baller hardware hacking machine.
+
+If you already are
+the aforementioned baller hardware-hacking machine (BHHM)
+then you can use these parts
+to add your own twists to the hardware.
+Maybe you can play networked multi-player N64
+from your computer?
+Maybe you let people play your SNES from a web app?
+Maybe your Awesome Controller interfaces with your blender?
+I don't know what sort of crazy thing you're in to (so please stop asking).
+
+Also includes 1 system dongle of your choice
+(add $10 for each additional dongle you'd like).
+
+Free shipping in the US.
+Please add $15 for international (non-US) shipping.
+
+(Plus The Backers tier)
+
+Limit: 100
+
+Estimated arrival: November 2012
+
+
+### $85
+One deliciously-Green Awesome Controller.
+
+You get a gorgeously-designed,
+fully-functional,
+envy-causing Awesome Controller.
+You will love it,
+or Kail will eat a sock.
+Seriously though,
+satisfaction guaranteed.
+
+Also includes 1 system dongle of your choice
+(add $10 for each additional dongle you'd like).
+
+Free shipping in the US.
+Please add $15 for international (non-US) shipping.
+
+Estimated arrival: December 2012
+
+
+### $95
+One Awesome Controller in any of the classic gem colors
+(choose from Ocean Blue, Rosy Red or Royal Purple).
+Free shipping to USA.
+
+We're pretty sure that the purple to green exchange rate
+is 50 to 1.
+
+Also includes 1 system dongle of your choice
+(add $10 for each additional dongle you'd like).
+
+Free shipping in the US.
+Please add $15 for international (non-US) shipping.
+
+Estimated arrival: December 2012
+
+
+### $850
+Gaming Club Tier.
+
+Ten Awesome Controllers in your choice of colors
+plus 10 dongles of your choice.
+
+Add $10 for each additional dongle you'd like.
+
+Free shipping in the US.
+Please add $15 for international (non-US) shipping.
+
+Estimated arrival: December 2012
+
+
+### $3000
+The System-Benefactor tier
+
+Have a favorite system/console
+that Awesome Controller doesn't support?
+What about a bluetooth peripheral
+you'd like to use to control your console?
+Become a system benefactor
+and we'll work with you to add Awesome Controller support to that system.
+
+Estimated arrival: Based on difficulty
