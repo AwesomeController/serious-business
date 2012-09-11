@@ -138,7 +138,7 @@ Pledge $5 and we'll keep you in the loop
 with product updates,
 and we'll add your name (plus a message of your choosing)
 to the `KICKSTARTER_BACKERS.md` file in our github repository.
-Invest in your geek cred, markdown style.
+Invest in your geek cred, oppan markdown style.
 
 Estimated arrival: October 2012
 
@@ -214,7 +214,7 @@ Estimated arrival: December 2012
 One Awesome Controller in any of the classic gem colors
 (choose from Ocean Blue, Rosy Red or Royal Purple).
 
-These orders are gauranteed to ship 
+These orders are guaranteed to ship 
 *before* the Green versions.
 Also, we're pretty sure that the purple to green exchange rate
 is 50 to 1.
@@ -233,7 +233,7 @@ Gaming Club Tier.
 
 Ten Awesome Controllers in your choice of colors
 plus 10 dongles of your choice.
-These orders are gauranteed to ship 
+These orders are guaranteed to ship 
 *before* the Green versions.
 
 Add $10 for each additional dongle you'd like.
