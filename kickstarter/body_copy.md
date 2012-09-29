@@ -37,7 +37,7 @@ PICTURE OF TEAM
 
 ## Which systems are supported?
 
-We currently support:
+We have a prototype that currently supports:
 * Nintendo Entertainment System (NES)
 * Super Nintendo Entertainment System (SNES)
 * Nintendo 64 (N64)
@@ -231,22 +231,6 @@ Please add $15 for international (non-US) shipping.
 Estimated arrival: December 2012
 
 
-### $850
-Gaming Club Tier.
-
-Ten Awesome Controllers in your choice of colors
-plus 10 dongles of your choice.
-These orders are guaranteed to ship 
-*before* the Green versions.
-
-Add $10 for each additional dongle you'd like.
-
-Free shipping in the US.
-Please add $15 for international (non-US) shipping.
-
-Estimated arrival: December 2012
-
-
 ### $3000
 The System-Benefactor tier
 
@@ -267,7 +251,7 @@ Our prototype currently works for the NES, SNES, and N64 systems, but only one a
 
 The case design for the Awesome Controller currently exists only in our mind's eye. We need to create an actual design that can be sent off and manufactured.
 
-If we have time and resources, we would love to add support for more classic game systems. So far we only support Nintendo systems, but this is not out of one-sided fanboyism. We'd like to support Sega, Atari, Playstation, etc as well. System support is one of the most difficult parts of the Awesome Controller project, however, and takes significant time and skill. 
+If we have time and resources, we would love to add support for more classic game systems. So far we only support Nintendo systems, but this is not out of one-sided fanboyism. We'd like to support Sega, Atari, Playstation, etc as well.
 
 1) Bluetooth
 2) Case Design
