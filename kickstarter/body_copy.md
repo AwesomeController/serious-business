@@ -99,6 +99,7 @@ We'd really appreciate if you sent them our way.
 http://twitter.com/awesomecontrol
 FACEBOOK
 G+
+https://github.com/AwesomeController
 
 If you're a developer,
 we'd love feedback,
