@@ -96,7 +96,9 @@ Spread the word!
 Know any retro gamers?
 We'd really appreciate if you sent them our way.
 
-TWITTER FACEBOOK G+
+http://twitter.com/awesomecontrol
+FACEBOOK
+G+
 
 If you're a developer,
 we'd love feedback,
