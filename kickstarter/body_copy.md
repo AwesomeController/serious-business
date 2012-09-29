@@ -255,3 +255,17 @@ Become a system benefactor
 and we'll work with you to add Awesome Controller support to that system.
 
 Estimated arrival: Based on difficulty
+
+# Risks and Challenges
+
+If our project is successfully funded, we will spend our time and effort on bluetooth coding, the case design for the product, and adding support for additional controllers and consoles.
+
+Our prototype currently works for the NES, SNES, and N64 systems, but only one at a time. To switch to a different console, we currently have to recompile the software. For product release, we obviously need the device to auto-detect which system is connected and function appropriately. We've already begun to build our code in a way that makes this possible, but we need time and effort to finish this task.
+
+The case design for the Awesome Controller currently exists only in our mind's eye. We need to create an actual design that can be sent off and manufactured.
+
+If we have time and resources, we would love to add support for more classic game systems. So far we only support Nintendo systems, but this is not out of one-sided fanboyism. We'd like to support Sega, Atari, Playstation, etc as well. System support is one of the most difficult parts of the Awesome Controller project, however, and takes significant time and skill. 
+
+1) Bluetooth
+2) Case Design
+3) Additional system or controller support
