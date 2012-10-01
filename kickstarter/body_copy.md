@@ -4,7 +4,8 @@ VIDEO
 
 Awesome Controller lets you use your Wii and PS3 controllers
 to play your classic game consoles.
-Ditch your tangled mess of old controllers,
+Ditch your tangled mess of old,
+broken controllers,
 but keep all of your favorite old systems and games.
 Breathe new life in to your NES, SNES, N64 (and more!)
 with Awesome Controller.
@@ -38,9 +39,17 @@ PICTURE OF TEAM
 ## Which systems are supported?
 
 We have a prototype that currently supports:
+
 * Nintendo Entertainment System (NES)
 * Super Nintendo Entertainment System (SNES)
 * Nintendo 64 (N64)
+
+The prototype is running on an Arduino board and is hooked together with wires.
+We have a USB host shield that has a USB bluetooth dongle,
+hacked together with some code to make everything basically work together.
+
+The prototype works pretty well with Wireless Wii and Wii Classic Controllers.
+We still have to do some work on the PS3 wireless and getting multiple controllers simultaneously connecting.
 
 The hardware is capable of supporting additional systems,
 and if we hit higher funding goals,
@@ -79,6 +88,13 @@ and switch dongles to play a different system.
 If you have multiple console systems you'd like to play,
 you'll want to pick up a dongle for each.
 
+## How will this be implemented?
+
+We've identified parts suppliers and manfacturers,
+and figured out the costs of various batch sizes.
+The Hackers Tier will be assembled by hand,
+and we'll work to assemble the other tier rewards.
+
 ## Awesome Controller's future
 
 Awesome Controller is a completely open platform,
@@ -96,14 +112,13 @@ Spread the word!
 Know any retro gamers?
 We'd really appreciate if you sent them our way.
 
-http://twitter.com/awesomecontrol
-FACEBOOK
-G+
+https://twitter.com/awesomecontrol
 https://github.com/AwesomeController
+https://www.facebook.com/pages/Awesome-Controller/219531528116786
 
 If you're a developer,
 we'd love feedback,
-suggestions
+suggestions,
 or (even better) pull requests.
 
 ## FAQ
@@ -130,10 +145,58 @@ Yup.
 
 Nope.
 
+### How does the Awesome Controller get power?
+
+We've thought about doing a battery-backed solution,
+but for now will probably stick with plugging it into A/C power.
+This at least isn't the kind of wire that stretches across your living room and trips your cat.
+
+### How do I get it?
+
+We ship it.
+We are only shipping to the United States.
+Shipping cost is included in the tier costs.
+
+
+## Appendix 1
+
+### Video copy
+
+#### Wes
+
+Awesome Controller lets you use your Wii and PS3 controllers to play your classic game consoles.
+
+Imagine using your Wiimote to play a game of Contra on your original NES. Later, you battle your friends on Block Fort in Mario Kart 64 with your PS3 controllers!
+
+If the past, present, and future had a baby, that baby would be Awesome Controller.
+
+#### Kyle
+
+Hi, I'm Kyle and this is team Awesome Controller. We're five life-long gamers in Indianapolis.
+
+I am a little bit of a wire-management freak, and I got tired of untangling the wires on my Super Nintendo controllers every time I wanted to replay Chrono Trigger. I Tom Sawyered four of my good friends and we built a working prototype of Awesome Controller in one weekend. Since then, we've worked hard to add support for new systems and new controllers. Now we want to share our hard work with all of you.
+
+We launched this Kickstarter because it allows us to perform a larger production run, saving the maximum possible number of retro consoles from obscurity.
+
+#### Anthony
+
+Awesome Controller acts like a translater between your Wii or PS3 controllers and your game consoles. We built on existing research to translate the bluetooth signals to the protocols that the various game consoles understand. You connect your Awesome Controller via an interchangable dongle to your favorite system, sync your controller, and start playing. You'll only need one Awesome Controller, but you'll need a different dongle for each game console.
+
+#### Kail
+
+We strongly believe that open hardware and software result in a better experience for consumers, so we've already released all of our Awesome Controller work under open source licenses. Our goal is to create a community around the Awesome Controller, so others can freely customize their version. We're also releasing an Arduino shield version of Awesome Controller for developers and hardware hackers.
+
+#### Alex
+
+Our goal with Awesome Controller is to help people have more fun with the consoles they already own, and we need your help. Don't let your princess be in another castle. Support Awesome Controller. It's awesome. Controller.
+
+
+
+
 ## Reward Tiers
 
 ### $5
-The Backers tier
+The Backers Tier
 
 Interested in supporting Awesome Controller development,
 but don't want to break the bank?
@@ -147,7 +210,7 @@ Estimated arrival: October 2012
 
 
 ### $20
-The Beautiful People tier
+The Beautiful People Tier
 
 We will phone, email or Skype call you (your preference) and tell you how much
 we love you, how attractive with think you are and how fashionable your
@@ -161,14 +224,14 @@ Estimated arrival: October 2012
 
 
 ### $75
-The Hackers tier
+The Hackers Tier
 
 About a month before the "retail" launch,
 we will send you a parts kit
 with everything you need
-to solder your own Awesome Controller arduino shield.
+to solder your own Awesome Controller Arduino shield.
 With this kit,
-an arduino uno
+an Arduino Uno
 and our free tutorials and documentation,
 you too can be a baller hardware-hacking machine.
 
@@ -217,7 +280,7 @@ Estimated arrival: December 2012
 One Awesome Controller in any of the classic gem colors
 (choose from Ocean Blue, Rosy Red or Royal Purple).
 
-These orders are guaranteed to ship 
+These orders are guaranteed to ship
 *before* the Green versions.
 Also, we're pretty sure that the purple to green exchange rate
 is 50 to 1.
@@ -232,7 +295,7 @@ Estimated arrival: December 2012
 
 
 ### $3000
-The System-Benefactor tier
+The System-Benefactor Tier
 
 Have a favorite system/console
 that Awesome Controller doesn't support?
