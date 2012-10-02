@@ -48,9 +48,6 @@ The prototype is running on an Arduino board and is hooked together with wires.
 We have a USB host shield that has a USB bluetooth dongle,
 hacked together with some code to make everything basically work together.
 
-The prototype works pretty well with Wireless Wii and Wii Classic Controllers.
-We still have to do some work on the PS3 wireless and getting multiple controllers simultaneously connecting.
-
 The hardware is capable of supporting additional systems,
 and if we hit higher funding goals,
 we'll certainly add more support.
@@ -67,6 +64,11 @@ and won't lose money for us.
 When we tell our friends,
 they tell us they'd love one,
 so we're hoping you're just a friend we haven't yet met.
+
+The money will cover shipping,
+manufacturing,
+and parts,
+with some left over for previous expenses and future development.
 
 We have a ton of ideas for cool enhancements,
 and the more interest we see,
@@ -308,14 +310,38 @@ Estimated arrival: Based on difficulty
 
 # Risks and Challenges
 
-If our project is successfully funded, we will spend our time and effort on bluetooth coding, the case design for the product, and adding support for additional controllers and consoles.
+If our project is successfully funded,
+we will spend our time and effort on bluetooth coding,
+the case design for the product,
+testing,
+and adding support for additional controllers and consoles.
 
-Our prototype currently works for the NES, SNES, and N64 systems, but only one at a time. To switch to a different console, we currently have to recompile the software. For product release, we obviously need the device to auto-detect which system is connected and function appropriately. We've already begun to build our code in a way that makes this possible, but we need time and effort to finish this task.
+The current prototype works pretty well with Wireless Wii and Wii Classic Controllers.
+We still have to do some work on the PS3 wireless and getting multiple controllers (of any type) simultaneously connecting.
 
-The case design for the Awesome Controller currently exists only in our mind's eye. We need to create an actual design that can be sent off and manufactured.
+Our prototype currently works for the NES,
+SNES,
+and N64 systems,
+but only one at a time.
+To switch to a different console,
+we currently have to recompile the software.
+For product release,
+we need the device to auto-detect which system is connected and function appropriately.
+We've already begun to build our code in a way that makes this possible,
+but we need time and effort to finish this task.
 
-If we have time and resources, we would love to add support for more classic game systems. So far we only support Nintendo systems, but this is not out of one-sided fanboyism. We'd like to support Sega, Atari, Playstation, etc as well.
+The case design for the Awesome Controller currently exists only in our mind's eye.
+We need to create an actual design that can be sent off and manufactured.
 
-1) Bluetooth
-2) Case Design
-3) Additional system or controller support
+Awesome Controller carries risks like any other engineering project.
+Some design flaws can delay product releases by months.
+Since this is a hardware product, having things work right before shipping is of utmost importance.
+
+If we have time and resources,
+we would love to add support for more classic game systems.
+So far we only support Nintendo systems,
+but this is not out of one-sided fanboyism.
+We'd like to support Sega,
+Atari,
+Playstation,
+etc. as well.
