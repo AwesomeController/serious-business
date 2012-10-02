@@ -198,7 +198,7 @@ Our goal with Awesome Controller is to help people have more fun with the consol
 ## Reward Tiers
 
 ### $5
-The Backers Tier
+THE BACKERS TIER
 
 Interested in supporting Awesome Controller development,
 but don't want to break the bank?
@@ -212,7 +212,7 @@ Estimated arrival: October 2012
 
 
 ### $20
-The Beautiful People Tier
+THE BEAUTIFUL PEOPLE TIER
 
 We will phone, email or Skype call you (your preference) and tell you how much
 we love you, how attractive with think you are and how fashionable your
@@ -220,13 +220,11 @@ footwear currently is.
 
 (Plus The Backers tier)
 
-Limit: 10
-
 Estimated arrival: October 2012
 
 
 ### $75
-The Hackers Tier
+THE HACKERS TIER
 
 About a month before the "retail" launch,
 we will send you a parts kit
@@ -235,35 +233,25 @@ to solder your own Awesome Controller Arduino shield.
 With this kit,
 an Arduino Uno
 and our free tutorials and documentation,
-you too can be a baller hardware-hacking machine.
+you too can be a baller hardware-hacking machine (BHHM).
 
-If you already are
-the aforementioned baller hardware-hacking machine (BHHM)
-then you can use these parts
-to add your own twists to the hardware.
-Maybe you can play networked multi-player N64
-from your computer?
-Maybe you let people play your SNES from a web app?
-Maybe your Awesome Controller interfaces with your blender?
-I don't know what sort of crazy thing you're in to (so please stop asking).
+If you have a cool idea, we'd love to help you make it happen.
 
 Also includes 1 system dongle of your choice
 (add $10 for each additional dongle you'd like).
 
 Free shipping in the US.
-Please add $15 for international (non-US) shipping.
 
-Limit: 100
-
-Estimated arrival: November 2012
+Estimated arrival: February 2012
 
 
 ### $85
-One deliciously-Green Awesome Controller.
+1 AWESOME CONTROLLER, MAINSTREAM COLOR
 
 You get a gorgeously-designed,
 fully-functional,
-envy-causing Awesome Controller.
+envy-causing,
+(and green-case colored) Awesome Controller.
 You will love it,
 or Kail will eat a sock.
 Seriously though,
@@ -273,31 +261,29 @@ Also includes 1 system dongle of your choice
 (add $10 for each additional dongle you'd like).
 
 Free shipping in the US.
-Please add $15 for international (non-US) shipping.
 
-Estimated arrival: December 2012
+Estimated arrival: April 2012
 
 
 ### $95
+1 AWESOME CONTROLLER, COOL CUSTOM COLOR
+
 One Awesome Controller in any of the classic gem colors
 (choose from Ocean Blue, Rosy Red or Royal Purple).
 
 These orders are guaranteed to ship
 *before* the Green versions.
-Also, we're pretty sure that the purple to green exchange rate
-is 50 to 1.
 
 Also includes 1 system dongle of your choice
 (add $10 for each additional dongle you'd like).
 
 Free shipping in the US.
-Please add $15 for international (non-US) shipping.
 
-Estimated arrival: December 2012
+Estimated arrival: March 2012
 
 
 ### $3000
-The System-Benefactor Tier
+THE SYSTEM-BENEFACTOR TIER
 
 Have a favorite system/console
 that Awesome Controller doesn't support?
@@ -307,6 +293,7 @@ Become a system benefactor
 and we'll work with you to add Awesome Controller support to that system.
 
 Estimated arrival: Based on difficulty
+
 
 # Risks and Challenges
 
