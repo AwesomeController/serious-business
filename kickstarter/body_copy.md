@@ -45,7 +45,7 @@ We have a prototype that currently supports:
 * Nintendo 64 (N64)
 
 The prototype is running on an Arduino board and is hooked together with wires.
-We have a USB host shield that has a USB bluetooth dongle,
+We have a USB host shield that has a USB Bluetooth dongle,
 hacked together with some code to make everything basically work together.
 
 The hardware is capable of supporting additional systems,
@@ -69,6 +69,7 @@ The money will cover shipping,
 manufacturing,
 and parts,
 with some left over for previous expenses and future development.
+Some of the money raised will go toward FCC certification/verification.
 
 We have a ton of ideas for cool enhancements,
 and the more interest we see,
@@ -182,7 +183,7 @@ We launched this Kickstarter because it allows us to perform a larger production
 
 #### Anthony
 
-Awesome Controller acts like a translater between your Wii or PS3 controllers and your game consoles. We built on existing research to translate the bluetooth signals to the protocols that the various game consoles understand. You connect your Awesome Controller via an interchangable dongle to your favorite system, sync your controller, and start playing. You'll only need one Awesome Controller, but you'll need a different dongle for each game console.
+Awesome Controller acts like a translater between your Wii or PS3 controllers and your game consoles. We built on existing research to translate the Bluetooth signals to the protocols that the various game consoles understand. You connect your Awesome Controller via an interchangable dongle to your favorite system, sync your controller, and start playing. You'll only need one Awesome Controller, but you'll need a different dongle for each game console.
 
 #### Kail
 
@@ -202,11 +203,11 @@ THE BACKERS TIER
 
 Interested in supporting Awesome Controller development,
 but don't want to break the bank?
-Pledge $5 and we'll keep you in the loop
+Pledge at least $5 and we'll keep you in the loop
 with product updates,
 and we'll add your name (plus a message of your choosing)
 to the `KICKSTARTER_BACKERS.md` file in our github repository.
-Invest in your geek cred, oppan markdown style.
+Invest in your geek cred, markdown style.
 
 Estimated arrival: October 2012
 
@@ -242,7 +243,7 @@ Also includes 1 system dongle of your choice
 
 Free shipping in the US.
 
-Estimated arrival: February 2012
+Estimated arrival: February 2013
 
 
 ### $85
@@ -262,7 +263,7 @@ Also includes 1 system dongle of your choice
 
 Free shipping in the US.
 
-Estimated arrival: April 2012
+Estimated arrival: April 2013
 
 
 ### $95
@@ -279,18 +280,20 @@ Also includes 1 system dongle of your choice
 
 Free shipping in the US.
 
-Estimated arrival: March 2012
+Estimated arrival: March 2013
 
 
-### $3000
+### $3075
 THE SYSTEM-BENEFACTOR TIER
 
 Have a favorite system/console
 that Awesome Controller doesn't support?
-What about a bluetooth peripheral
+What about a Bluetooth peripheral
 you'd like to use to control your console?
 Become a system benefactor
 and we'll work with you to add Awesome Controller support to that system.
+
+Plus, heck, we'll throw in an Awesome Controller for free.
 
 Estimated arrival: Based on difficulty
 
@@ -298,7 +301,7 @@ Estimated arrival: Based on difficulty
 # Risks and Challenges
 
 If our project is successfully funded,
-we will spend our time and effort on bluetooth coding,
+we will spend our time and effort on Bluetooth coding,
 the case design for the product,
 testing,
 and adding support for additional controllers and consoles.
