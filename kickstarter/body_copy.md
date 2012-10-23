@@ -44,6 +44,8 @@ We have a prototype that currently supports:
 * Super Nintendo Entertainment System (SNES)
 * Nintendo 64 (N64)
 
+We'd love to get Sega and Sony added before launch as well. You know what they say: mo' money, mo' systems.
+
 The prototype is running on an Arduino board and is hooked together with wires.
 We have a USB host shield that has a USB Bluetooth dongle,
 hacked together with some code to make everything basically work together.
